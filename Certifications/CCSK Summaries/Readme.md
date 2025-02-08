@@ -7,9 +7,13 @@
 - **Exam Format:** 60 multiple-choice questions in 120 minutes.
 - **Passing Score:** 80% or above (48/60 correct answers).
 - **Aquisition context:** Cyber Monday 2024 deal with CCZT.
-- **Price:** Around 400$ (_with CCZT_). 
+- **Price:** Around 400$ (_with CCZT_).
+
+- The exam covered basically the CCSK study guide content and the questions were easy to understand.
 
 # Preparing tips and tricks:
 
 - The main guide is 125 pages length so I've schedueled a daily reading session of arround 4 pages.
 - Try using **Obsidian** as a summarizing tool for each domain and save them as **pdfs** in your vault.
+- After finnishing reading, It is advisable to practise the provided questions by **CCSK sample questions document.**
+
