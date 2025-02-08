@@ -6,7 +6,6 @@ This repository is dedicated to providing summaries, tips, and guides for variou
 
 - Certified Cloud Security Knowledge (CCSK)
 - Certified Competence in Zero Trust (CCZT) (soon! ...)
-- Comptia Security + (soon! ...)
 
 🛠️ How to Use This Repository
 
