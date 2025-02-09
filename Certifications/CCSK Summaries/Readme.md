@@ -16,4 +16,4 @@
 - The main guide is 125 pages length so I've schedueled a daily reading session of arround 4 pages.
 - Try using **Obsidian** as a summarizing tool for each domain and save them as **pdfs** in your vault.
 - After finnishing reading, It is advisable to practise the provided questions by **CCSK sample questions document.**
-
+- <mark style="background: #BBFABBA6;">So</mark>
