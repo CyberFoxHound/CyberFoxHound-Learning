@@ -2,14 +2,14 @@
 
 ![Image1](Images/ccsk_logo.png) ![Image2](Images/Securitypluslogo.png) 
 
-Welcome CyberFoxHound Learners! 🚀
+Welcome **CyberFoxHound Learners! **🚀
 
 This repository is dedicated to providing summaries, tips, and guides for various cybersecurity certifications. Whether you're just starting your cyber journey or looking to reinforce your knowledge, you'll find valuable insights here.
 
 📜 Certifications Covered
 
-- Certified Cloud Security Knowledge (CCSK)
-- Certified Competence in Zero Trust (CCZT) (soon! ...)
+- **Certified Cloud Security Knowledge (CCSK)**
+- **Certified Competence in Zero Trust (CCZT) (soon! ...)**
 
 🛠️ How to Use This Repository
 
